@@ -1,2 +1,2 @@
 # Site-Y2K
-Pequeno projeto de uma página usando Html e CSS.
+Pequeno projeto de uma página usando JavaScript, Html e CSS.
